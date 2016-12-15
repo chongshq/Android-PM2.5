@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/libs/locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/2/locSDK_6.13_1e45c812cbf82315ebbfc9240613cf9ba4ab24d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_yixin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1844f7973bc0c8b5c65eb8091373d9d53f225ba">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_yixin_1_84448ba7eaedb71f92028032f2c5f9df2e9314d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_facebook_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="80ff87d138ae32cfe473b786851e78a841933a82">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_facebook_1_acc56ac542cdda36cc5b3aab06ca3bbd0f028b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_evernote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1f72e82a3cf55f3e4486e0e8f606879e979d547e">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_evernote_4a216fd71db1846233fded372d8a7a8f1833c1b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b44642c2f00b059c8110f5ab1686f2692c95557d">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b0fa3a02de40377575a5f5a09b660ae8a224b0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_flickr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7533e58a8dc0571d39cb1c0a0dd240606e6c041e">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_flickr_df4cc25735de43f5bb81e028f1c90d5e107fbee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_comment.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55d5805a0839ecb06e81bf1267b1e4df5ff7d0b1">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_comment_6c512e4bdea8bfe09f96174deb14da3eead25e36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7072bd908b79cdb7b7fe2d550c7755f0f6db4a17">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_QQZone_2_8812c58627c229a454a9f78596062835aba8f9c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_like.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6685f6a75bcbdd81df8ce00a6cdd3215e3e1fcb0">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_like_f5a9bcbed697f1a7611bb4ed022a9f6ab6be8d04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26acc65a136a164cf1d6c0c793d425a9ac67bbb2">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_laiwang_2_fb587cbf7cf4f97293923a3126f936f5bb67a7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/src/main/jniLibs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7527380ff6c24ed799d3db6ec8efb5e576889e92">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_bed8c6fd2fab1ba6a092537d52e12b4512433cb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_shake.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="34e94b3100ce4546b907460e725f9eeb13847c96">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_shake_3f1c3e2d22bbfa9cc5b808462265f76800294a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_yixin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ab67f141d00be37014d7d60eb24ba2d745af6ec">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_yixin_2_a8093e474d2d4fd836854679481a65126e6bda31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.18_5c1154364c8570944324035ef8d1332015469950/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62e48ad4e1896519cdffc181d5f3c612c7d7b37d">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_tencentWB_2_4d5ea76e05bc1166f7d14c9212572a488479bc4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="04dd32162912fc2bfe3a619bb1fc4034d89187ff">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_laiwang_1_7db3256c308a587aa9d1d5f7bee1b1b4aa53bb21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_sms.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcef3560bca4260897ee9c9d82512357d153b538">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_sms_18637b20b2f8ac6078310251231641e6b40f8588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_AtFriends.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c43d5b87ee29dc2179e9b46877cc2ace4ef96b63">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_AtFriends_1bd436683895b58b550ecb0c08664fc39fe0b00a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_renren_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0458eaf94045cdfabc938f466753bbd4d19d63f9">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_renren_2_84b25fdc1c19d493a13dc3c395e0eaf5a4d447bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="157dd4aa07dfd371275b1fae8d9cc2ead7b2da54">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_QQZone_3_dc975d739c4ceb0a50c91af91105e3b5be6ad05e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/.gradle/caches/modules-2/files-2.1/nl.qbusict/cupboard/2.1.2/aa2654568535e3a29af7a3b86453b8ff85af6d12/cupboard-2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa2654568535e3a29af7a3b86453b8ff85af6d12">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/cupboard-2.1.2_00ed141922adf679e320370ccc52a3b6289b2c01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_email.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9cdca70b4904756109378cf3230e9878d60478a3">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_email_720d73c0ac300ce71e72e6e5b8493b4679ee5d37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/com.github.orhanobut/logger/1.12/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb9f39f775f414b18c7c61b4f71345f2ae8f738">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.orhanobut-logger-1.12_c863678091ec5b4802ba7b67a8be6a45e68f5af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_QQZone_1_fb6f7bbd6da85bea14e012e2a832e9c63931729a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4f4e396e98d9df68e3e235ae9c3258e2dac5890a">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_Sina_0bb5e1a7c8c9b0c276705fb53c538c99566c4ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3299434a5ced5ea151e559adb4b840b16bfb94df">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/bolts-android-1.1.4_4e4d2dc1293fa00d0adddacbc660264166ad1ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_pocket.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9c14d3a3cb51ff3130b285fefdb40ab15fe1dbd">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_pocket_f1299ca4f2f4c216b1686cd11b80e20b19dda32a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_ynote.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f62ac92e6241e1cd4f4bb3d12fc5eed60296a432">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_ynote_d19e3211a5e3d06e368102f41b361ffc26def610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2ad68a174c99a3cefaecc70d0da7681b276ae97f">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/umeng_social_sdk_836aa027084307c9080a952a1e423692f3dcced1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_tencentWB_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b029f9e54d8639614528d0c55ca403f4431d7515">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_tencentWB_3_438d21e9141772ef2158455dbff396560ad9d493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_b99a31761def468ddfe42a5ee710d91a025266c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="301e43b22403ab47eab75a8ecdff80d697bc9289">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_WeiXin_2_12976a5380012183bb68d2b15e9a13ab8753a301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_scrshot.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9fed473367d3c37d2bed63fd5c7c1567cf47b9aa">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_scrshot_ff4a0ab2eca8f4d04145dc4f6b875c2dbb6aa263/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_tumblr.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7266caed2ced137430958ea8093993bbe5738a3d">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_tumblr_ce87cbb9704515f5b25fb76d7acd0dad99a08f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/libs/baidumapapi_v3_5_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b63b092a660a70370a05e00be60fd2b4ed290fcb">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/2/baidumapapi_v3_5_0_a981038969c96ce3d022766bda8757252f08c93c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_3446b6ca3c4830335d3a38ea5e518e63d99c7878/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_linkedin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa343c7160dfeafcb0d715bb03d1314b454e11af">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_linkedin_36a2f69ec3c5d2cb9edf9e5ffff399e8fdbecd34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_fdb96729b1593110c53a60b5dd0ae14b70e58598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_facebook_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0f89e30ef398a30f7a37665f9602e8c5d58785dd">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_facebook_2_a12a430ee207c4593e05c6fcacf4a00b2a58665d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_UserCenter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d107b572b9b1b0735a620f6eaa074d162c3cd1c4">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_UserCenter_733ba2189fe7a8f076ed3f13758bf512a9bde94f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9c524f29673bfede1442cb340f72ef9912020ce">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_tencentWB_1_662ed314b3f88f0cfb214021fdc3fe2257d8b2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_line.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="425cf9eded283121242f4879c429019ea745694d">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_line_f69e1ce200b509c0514eaf0e801e4c430e917ef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45d4e4a087362bdeb50658b0aff5a86486c87edd">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa0ee19e7457efc8c7c6bb34a8d206173011806f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_foursquare.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a5e2e86becf58baaea05cc5f48f45e67ba77ddff">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_foursquare_8447f19f188b54a38d1f138d8f0a552acca810df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_pinterest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94ab148748cde362c8e416844ab9cbda7dcfb8b9">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_pinterest_c821c403bae930ec87ab2ca917c1e75136e8d8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_23d7f9c65335b930de93f294de861d9cbaa73f13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5fe9dcdaca41bdb2874b503a628723c658346c8">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_WeiXin_1_64268ad195a46b02d473b29f85fea4a4238c0489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_instagram.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5555c149deb6f984acbbd33f2b07ad0a4840e1f9">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_instagram_4bf2808761517cec5e607b7bbcdef535b267aace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_actionbarview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5e7ee41354c2956caab9c0acba1158df01e7f49">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_actionbarview_e9ce968dd801668b4daf40de98e18cbbe50dde01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/com.github.lecho/hellocharts-library/1.5.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56c6a22c42588628903e9dda5d8f3aa1c1b4372f">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.lecho-hellocharts-library-1.5.8_465c91a331fbe0022fad49ade06ab5f5e2fa2194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d78fd95cfbd4d8fb6f8726347fa3bda24d162ee">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/httpmime-4.1.3_2e02db8c1d4b4b063bd112da409a0a1466c0b765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_whatsapp.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a378baa7bc3d1ece09830e440c3dd998b280dc18">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_whatsapp_1495b7e9e803344ef74a28a2b718a2b897b6aad9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_kakao.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e2c45d0f054a45d5564e73b540cdd2f24b78488a">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_kakao_f9fe1e352ba6402f853e604d0258755086119668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/jars/libs/SocialSDK_renren_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01397a3a91b34a77c85688d65a0027bd56469b37">
+        <dex dex="/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/8/SocialSDK_renren_1_e7cb2a026193fa19d0fc835370fb1bfeb689feb1/classes.dex" />
+    </item>
+
+</items>

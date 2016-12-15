@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/src/main/res/menu/gatt_services.xml"
+    }
+]

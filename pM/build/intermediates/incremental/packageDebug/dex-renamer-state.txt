@@ -1,0 +1,7 @@
+#Sun Dec 11 23:15:06 CST 2016
+base.0=/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa0ee19e7457efc8c7c6bb34a8d206173011806f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b0fa3a02de40377575a5f5a09b660ae8a224b0e4/classes.dex
+base.1=/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b0fa3a02de40377575a5f5a09b660ae8a224b0e4
+file.0=/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa0ee19e7457efc8c7c6bb34a8d206173011806f/classes.dex

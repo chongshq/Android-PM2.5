@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_full_alert_dialog.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/exploded-aar/Android-PM2.5/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_ucenter.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_full_alert_dialog.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/exploded-aar/Android-PM2.5/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_post_share.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/exploded-aar/Android-PM2.5/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_titile_bar.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/exploded-aar/Android-PM2.5/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_titile_bar.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_post_comment.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_post_comment.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/exploded-aar/Android-PM2.5/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_post_share.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Andorid-PM2.5-master/pM/build/intermediates/exploded-aar/Andorid-PM2.5-master/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/res/merged/debug/layout-sw550dp-large-v13/umeng_socialize_ucenter.xml",
+        "source": "/Users/bennettqian/Documents/GitRepo/Android-PM2.5/pM/build/intermediates/exploded-aar/Android-PM2.5/umeng_share_library/unspecified/res/layout-sw550dp-large-v13/umeng_socialize_ucenter.xml"
+    }
+]
